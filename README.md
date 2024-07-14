@@ -8,7 +8,7 @@ python link:- https://www.python.org/downloads/
 vs code
 random module
 
-#To run this project
+# To run this project
 
 open terminal 
 type :- python file_name
